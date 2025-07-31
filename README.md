@@ -11,7 +11,7 @@ Recentemente, decidi me aventurar também no mundo do desenvolvimento de jogos c
 
 ### Redes Sociais 🌐
 <p align="left">
-    <a href="https://www.linkedin.com/in/francisco-evanderson-402aa2252/">
+    <a href="www.linkedin.com/in/fco-evanderson">
         <img height="30" width="40"
             alt="Linkedin Francisco Evanderson" 
             title="Linkendin Francisco Evanderson" 
