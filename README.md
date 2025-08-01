@@ -47,6 +47,8 @@ Recentemente, decidi me aventurar também no mundo do desenvolvimento de jogos c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
   <img align="center" alt="Evan-Godot" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+  <img align="center" alt="Evan-GameMaker" height="30" width="40"
+    src="https://www.svgrepo.com/show/373618/gamemaker2.svg" />
   <img align="center" alt="Evan-Git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div><br>
