@@ -1,15 +1,15 @@
-# Olá! Eu sou o Evanderson 👨🏽‍💻
+# Hi! I'm Evanderson 👨🏽‍💻
 
 **`Mobile & Game Developer`**
 
-Me chamo **Francisco Evanderson**, nascido em 2003, sou natural do **Brasil** e moro em **Parnaíba-PI**. Concluí o ensino médio e me tornei **Técnico em Informática** pelo **IFPI**. Atualmente, estou cursando **Bacharelado em Ciência da Computação** na **UESPI**. Sempre fui apaixonado por tecnologias, paixão essa que busco sempre transmitir em meus trabalhos como desenvolvedor web e mobile. 
+My name is **Francisco Evanderson**, born in 2003, I am from **Brazil** and I live in **Parnaíba, Piauí**. I completed High School and became an **IT Technician** through **Instituto Federal do Piauí - IFPI**. Currently, I'm pursuing a **Bachelor's degree in Computer Science** at **Universidade Estadual do Piauí - UESPI**. I have always been passionate about technology, a passion that I constantly strive to express in my job as a WEB, MOBILE and GAME developer. 
 
-Recentemente, decidi me aventurar também no mundo do desenvolvimento de jogos criando meu primeiro jogo: <br>
+Recently, I decided to venture into the Game Development's World as well, developing my first game: <br>
 **BIOGAME🌿**
 
 ---
 
-### Redes Sociais 🌐
+### Social Media 🌐
 <p align="left">
     <a href="https://www.linkedin.com/in/fco-evanderson/">
         <img height="30" width="40"
@@ -25,7 +25,7 @@ Recentemente, decidi me aventurar também no mundo do desenvolvimento de jogos c
         />
 </p>
 
-### Línguagens e Tecnologias 👾
+### Languages and Technologies 👾
 <div style="display: inline_block">
   <img align="center" alt="Evan-JavaScript" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
