@@ -2,7 +2,7 @@
 
 **`Mobile & Game Developer`**
 
-Me chamo **Francisco Evanderson**, nascido em 2003, sou natural do **Piauí** e moro em **Parnaíba**. Concluí o ensino médio e me tornei **Técnico em Informática** pelo **IFPI**. Atualmente, estou cursando **Bacharelado em Ciência da Computação** na **UESPI**. Sempre fui apaixonado por tecnologias, paixão essa que busco sempre transmitir em meus trabalhos como desenvolvedor web e mobile. 
+Me chamo **Francisco Evanderson**, nascido em 2003, sou natural do **Brasil** e moro em **Parnaíba-PI**. Concluí o ensino médio e me tornei **Técnico em Informática** pelo **IFPI**. Atualmente, estou cursando **Bacharelado em Ciência da Computação** na **UESPI**. Sempre fui apaixonado por tecnologias, paixão essa que busco sempre transmitir em meus trabalhos como desenvolvedor web e mobile. 
 
 Recentemente, decidi me aventurar também no mundo do desenvolvimento de jogos criando meu primeiro jogo: <br>
 **BIOGAME🌿**
